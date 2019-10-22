@@ -3,7 +3,7 @@
 import Animal from './animal.js'
 import * as Helpers from './helper.js'
 import Atm from './atm.js';
-import RecordAlbums from './recordAlbums.js';
+import RecordAlbum from './recordAlbum.js';
 
 console.log(Helpers.add(500,500));
 console.log(Helpers.getRandom());
